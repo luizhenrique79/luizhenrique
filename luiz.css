@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+
+body{
+    background-color: #424242;
+}
+.cabeçalho-imagem{
+    width: 20%;
+}
+.cabeçalho{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+    
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+.animais-imagem{
+    width: 25%;
+}
+.animais{
+    background-image: linear-gradient(#444,#424242);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.animais-div-conteudo{
+    width: 35%;
+}
+.animais-titulo{
+    padding: 24px 0;
+}
